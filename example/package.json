@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run": "pro-dist-zip"
+    "run": "pro-dist-zip /dist /dist/output.zip",
+    "run-config": "pro-dist-zip /distrc.json"
   }
 }
