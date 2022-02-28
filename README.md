@@ -1,2 +1,7 @@
 # pro-dist-zip
-自动压缩项目打包文件
+
+### 使用方法
+
+```bash
+pro-dist-zip /dist /path/output.zip
+```

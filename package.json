@@ -1,0 +1,23 @@
+{
+  "name": "pro-dist-zip",
+  "version": "1.0.0",
+  "keywords": [
+    "project",
+    "dist",
+    "zip"
+  ],
+  "description": "Put dist file to zip.",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "bin": {
+    "pro-dist-zip": "./index.js"
+  },
+  "repository": "https://github.com/liucdev/pro-dist-zip.git",
+  "author": "liucdev <1058807007@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "zip-local": "^0.3.5"
+  }
+}
