@@ -1,6 +1,6 @@
 {
   "name": "pro-dist-zip",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "keywords": [
     "project",
     "dist",
@@ -17,7 +17,7 @@
   "repository": "https://github.com/liucdev/pro-dist-zip.git",
   "author": "liucdev <1058807007@qq.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "zip-local": "^0.3.5"
   }
 }
